@@ -1,0 +1,14 @@
+body {
+    background-image: url(/src/assets/image/3401742.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(91, 176, 141);
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+* {
+    font-family: "Dancing Script", cursive;
+}
